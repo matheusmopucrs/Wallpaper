@@ -13,4 +13,4 @@ These images are hosted on GitHub to ensure compatibility with Vencord's resourc
 2. In your CSS, enable the background image option:
    ```css
    --background-image: on;
-   --background-image-url: url('https://raw.githubusercontent.com/matheusmopucrs/discord-wallpapers/main/wallpapers/cyberpunk-city.jpg');
+   --background-image-url: url('https://raw.githubusercontent.com/matheusmopucrs/discord-wallpapers/main/wallpapers/Room1.png');
